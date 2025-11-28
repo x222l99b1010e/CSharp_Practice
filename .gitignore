@@ -1,0 +1,41 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+bin/
+obj/
+publish/
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+
+# User-specific files
+*.log
+secrets.json
+appsettings.*.json
+
+# Rider / ReSharper / dotCover
+_ReSharper*/
+*.DotSettings.user
+*.dotCover
+
+# Publish/Deployment
+*.Publish.xml
+
+# Misc
+*.db
+*.pfx
+*.key
+*.pem
