@@ -22,6 +22,26 @@
 			{
 				//Console.WriteLine(i);
 			}
+
+			//
+			int n = 91;
+			int k = 7;
+			int r = n % k;
+			int first = (r == 0) ? n : n + (k - r);
+			Console.WriteLine(first);
+
+			//一行版本
+			Console.WriteLine((91 % 7 == 0) ? 91 : 91 + (7 - 91 % 7));
+
+			//適用任何正整數版本
+			int FirstMultipleGE(int n, int k)
+			{
+				if (k <= 0) throw new ArgumentException("k must be positive", nameof(k));
+				int r = n % k;
+				return r == 0 ? n : n + (k - r);
+			}
+
+			Console.WriteLine(FirstMultipleGE(197, 7));
 		}
 	}
 }
