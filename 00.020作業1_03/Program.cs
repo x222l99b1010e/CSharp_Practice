@@ -34,16 +34,19 @@ namespace _00._020作業1_03
 			StringBuilder sb = new StringBuilder();
 			for (int i = 1; i <= x; i++) 
 			{
+				int foo = 3;
+				int bar = 5;
+				int foobar = foo * bar;
 				
-				if (i % 15 == 0)
+				if (i % foobar == 0)
 				{
 					sb.AppendLine("foobar");
 				}
-				else if (i % 5 == 0)
+				else if (i % bar == 0)
 				{
 					sb.AppendLine("bar");
 				}
-				else if (i % 3 == 0)
+				else if (i % foo == 0)
 				{
 					sb.AppendLine("foo");
 				}
