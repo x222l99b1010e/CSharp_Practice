@@ -127,7 +127,6 @@ namespace _00._020作業2_銀行帳戶管理
 			//result = Balance;//!!!!!!!!!!!!!!!!!!!!!!!!!!
 			//return true;
 		}
-
 		public string DisplayBalance()
 		{
 			return $"{AccountHolder} 您目前帳戶餘額為 {Balance}";
