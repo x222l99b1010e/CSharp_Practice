@@ -83,7 +83,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "!!!01.70.10for的範例#2",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.70.20DeclareString", "01.70.20宣告字串\01.70.20DeclareString.csproj", "{6C7C10B4-61C3-415D-AD06-AF4CF7C9EE3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.70.30計算數值總和", "01.70.30計算數值總和\01.70.30計算數值總和.csproj", "{D1A1EE6D-28CB-4620-B880-76C5B1CDC384}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.70.30CalculateSumOfNums", "01.70.30計算數值總和\01.70.30CalculateSumOfNums.csproj", "{D1A1EE6D-28CB-4620-B880-76C5B1CDC384}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00.020HW1", "00.020作業1\00.020HW1.csproj", "{05DFFBC1-CD69-4A4B-B01A-236E2813399C}"
 EndProject
@@ -97,9 +97,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00.020HW1_05", "00.020作�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00.000PracticeExercise", "00.000練習題目\00.000PracticeExercise.csproj", "{5156AAF2-D41A-4749-A031-9E0D7E69C16C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.70.32萃取方法範例-取得二維陣列裡的最小值", "01.70.32萃取方法範例-取得二維陣列裡的最小值\01.70.32萃取方法範例-取得二維陣列裡的最小值.csproj", "{1AC0F0B1-1F63-48ED-969C-F6F38AD83951}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.70.32ExtractionMethod_FindMin2DArray", "01.70.32萃取方法範例-取得二維陣列裡的最小值\01.70.32ExtractionMethod_FindMin2DArray.csproj", "{1AC0F0B1-1F63-48ED-969C-F6F38AD83951}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.70.40迴圈裡的break,continue", "01.70.40迴圈裡的break,continue\01.70.40迴圈裡的break,continue.csproj", "{9515E115-2578-41C2-8EC9-B9A8EAAD86B1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.70.40Loop_break_continue", "01.70.40迴圈裡的break,continue\01.70.40Loop_break_continue.csproj", "{9515E115-2578-41C2-8EC9-B9A8EAAD86B1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp33", "ConsoleApp33\ConsoleApp33.csproj", "{59CE7ACB-08DA-4C8C-9C28-B5479DEC1E8D}"
 EndProject
@@ -131,15 +131,25 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00.020HW2_StudentScoreRecor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00.020HW2_Calculator", "00.020作業2_模擬簡單計算機\00.020HW2_Calculator.csproj", "{51E2C5CF-0127-4DA9-B8F0-4143A01E7910}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00.020HW2_銀行帳戶管理", "00.020作業2_銀行帳戶管理\00.020HW2_銀行帳戶管理.csproj", "{A8D1E6A5-BD47-459C-B3E2-D625206ECEB6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00.020HW2_BankAccountManagement", "00.020作業2_銀行帳戶管理\00.020HW2_BankAccountManagement.csproj", "{A8D1E6A5-BD47-459C-B3E2-D625206ECEB6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00.020HW2_ProductClassAndDiscount", "00.020作業2_商品類別與折扣計算\00.020HW2_ProductClassAndDiscount.csproj", "{8FE747A3-CD77-4DED-96A0-632C6C7C9C34}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00.020HW2_CarInfoManagement", "00.020作業2_車輛資訊管理\00.020HW2_CarInfoManagement.csproj", "{D3223519-515E-4329-9B28-6A20D5B2D484}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00.020作業2_SimpleLibrary", "00.020作業2_模擬簡單圖書館\00.020作業2_SimpleLibrary.csproj", "{0AA5DD88-B128-4FCD-A299-65D46DF8939C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00.020HW2_SimpleLibrary", "00.020作業2_模擬簡單圖書館\00.020HW2_SimpleLibrary.csproj", "{0AA5DD88-B128-4FCD-A299-65D46DF8939C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00.020HW2_CarInfoManagementUnitTest", "!!!!!!00.020作業2_車輛資訊管理測試\00.020HW2_CarInfoManagementUnitTest.csproj", "{7324F8DD-2144-4F9F-937E-F45399888896}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "000_idealNum", "idealNum\000_idealNum.csproj", "{1ECEC22F-39FF-4B9F-83F3-DFD169FCA611}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "000_Fill_Missing_Brackets", "Fill_Missing_Brackets\000_Fill_Missing_Brackets.csproj", "{A357C499-B4B2-4861-B8BA-A035096BA62E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car_Inheritance", "Car_Inheritance\Car_Inheritance.csproj", "{B762DE9E-CDE1-416C-8267-BD12C47AE365}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "000_Factors_of_3_and_5", "Factors_of_3_and_5\000_Factors_of_3_and_5.csproj", "{AE52E63D-DF92-4D87-A041-6A4C4F70CBD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "000_Identifying_Triangles", "Identifying_Triangles\000_Identifying_Triangles.csproj", "{1AF09B5D-31C8-46F8-8BCF-60450E49F688}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -423,6 +433,26 @@ Global
 		{7324F8DD-2144-4F9F-937E-F45399888896}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7324F8DD-2144-4F9F-937E-F45399888896}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7324F8DD-2144-4F9F-937E-F45399888896}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ECEC22F-39FF-4B9F-83F3-DFD169FCA611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ECEC22F-39FF-4B9F-83F3-DFD169FCA611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ECEC22F-39FF-4B9F-83F3-DFD169FCA611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ECEC22F-39FF-4B9F-83F3-DFD169FCA611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A357C499-B4B2-4861-B8BA-A035096BA62E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A357C499-B4B2-4861-B8BA-A035096BA62E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A357C499-B4B2-4861-B8BA-A035096BA62E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A357C499-B4B2-4861-B8BA-A035096BA62E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B762DE9E-CDE1-416C-8267-BD12C47AE365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B762DE9E-CDE1-416C-8267-BD12C47AE365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B762DE9E-CDE1-416C-8267-BD12C47AE365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B762DE9E-CDE1-416C-8267-BD12C47AE365}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE52E63D-DF92-4D87-A041-6A4C4F70CBD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE52E63D-DF92-4D87-A041-6A4C4F70CBD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE52E63D-DF92-4D87-A041-6A4C4F70CBD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE52E63D-DF92-4D87-A041-6A4C4F70CBD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AF09B5D-31C8-46F8-8BCF-60450E49F688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AF09B5D-31C8-46F8-8BCF-60450E49F688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AF09B5D-31C8-46F8-8BCF-60450E49F688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AF09B5D-31C8-46F8-8BCF-60450E49F688}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
