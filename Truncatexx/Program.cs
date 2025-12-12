@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Data.SqlTypes;
 
-namespace Truncatexx
+namespace _01._30._10_Output
 {
 	//請設法找出以下程式的所有錯誤之處, 並讓它能順利執行
 	//void Main()
