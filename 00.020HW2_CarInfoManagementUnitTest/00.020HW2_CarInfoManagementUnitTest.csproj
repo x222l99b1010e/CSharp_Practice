@@ -17,7 +17,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\00.020HW2_CarInfoManagement\00.020HW2_CarInfoManagement.csproj" />
-    <ProjectReference Include="..\00.020作業2_車輛資訊管理\00.020HW2_CarInfoManagement.csproj" />
   </ItemGroup>
 
   <ItemGroup>
