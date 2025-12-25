@@ -159,6 +159,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "!!!01.70.10for_Example#2", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00.020HW2_isPrime", "00.020HW2_isPrime\00.020HW2_isPrime.csproj", "{07484E02-65B6-452D-A48D-76D995AA6493}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00.020HW2_PrintMultiplicationTable", "00.020HW2_PrintMultiplicationTable\00.020HW2_PrintMultiplicationTable.csproj", "{635FB2D4-B6CF-47D8-8C19-23A8DBB65EA2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -477,6 +479,10 @@ Global
 		{07484E02-65B6-452D-A48D-76D995AA6493}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07484E02-65B6-452D-A48D-76D995AA6493}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07484E02-65B6-452D-A48D-76D995AA6493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{635FB2D4-B6CF-47D8-8C19-23A8DBB65EA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{635FB2D4-B6CF-47D8-8C19-23A8DBB65EA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{635FB2D4-B6CF-47D8-8C19-23A8DBB65EA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{635FB2D4-B6CF-47D8-8C19-23A8DBB65EA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
