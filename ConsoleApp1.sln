@@ -161,6 +161,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00.020HW2_isPrime", "00.020
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00.020HW2_PrintMultiplicationTable", "00.020HW2_PrintMultiplicationTable\00.020HW2_PrintMultiplicationTable.csproj", "{635FB2D4-B6CF-47D8-8C19-23A8DBB65EA2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00.020HW4_HundredChickensSolver", "00.020HW4_HundredChickensSolver\00.020HW4_HundredChickensSolver.csproj", "{5BCD1531-5C82-48EB-97EA-961DA0550206}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00.020HW4_HundredChickensSolver2", "00.020HW4_HundredChickensSolver2\00.020HW4_HundredChickensSolver2.csproj", "{449671B0-DE7B-498C-AF94-331C4991BF61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -483,6 +487,14 @@ Global
 		{635FB2D4-B6CF-47D8-8C19-23A8DBB65EA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{635FB2D4-B6CF-47D8-8C19-23A8DBB65EA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{635FB2D4-B6CF-47D8-8C19-23A8DBB65EA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BCD1531-5C82-48EB-97EA-961DA0550206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BCD1531-5C82-48EB-97EA-961DA0550206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BCD1531-5C82-48EB-97EA-961DA0550206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BCD1531-5C82-48EB-97EA-961DA0550206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{449671B0-DE7B-498C-AF94-331C4991BF61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{449671B0-DE7B-498C-AF94-331C4991BF61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{449671B0-DE7B-498C-AF94-331C4991BF61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{449671B0-DE7B-498C-AF94-331C4991BF61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
