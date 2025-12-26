@@ -14,6 +14,19 @@
 			Console.WriteLine($"最後奇數：{result.LastOdd}");
 			Console.WriteLine($"總和：{result.Sum}");
 
+			int max = 250;
+			int sum = 0;
+			int current = 1;
+			while (sum <= max)
+			{
+				sum += current;
+				// 如果加完已經超過了，就直接跳出，不要執行後面的 current += 2
+				if (sum > max) break;
+				current += 2;
+				
+			}
+			Console.WriteLine($"1 + 3 + 5 + 7 + ... + {current}，總和為{sum}");
+
 
 		}
 		public static int GetOddSumExceedingLimit(int limit, out int sum)
