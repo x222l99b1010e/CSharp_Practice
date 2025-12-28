@@ -57,7 +57,7 @@ namespace _00._020HW3_NE555
 		{
 			_current = 0;
 		}
-		public void Reset(int newCount)
+		public void Reset(int newCount = 8)
 		{
 			// 1. 先處理數字安全性（像建構函數那樣）
 			if (newCount <= 0) throw new Exception("上限必須大於 0");
