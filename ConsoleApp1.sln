@@ -197,6 +197,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00.020HW3_ResizeTarget", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00.020HW3_NE555", "00.020HW3_NE555\00.020HW3_NE555.csproj", "{0CF42B60-E978-43BD-A566-D83257EE412E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00.019Hash", "00.019Hash\00.019Hash.csproj", "{EC898C88-586A-4CBB-AF3A-6FF0B4B2B6BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -591,6 +593,10 @@ Global
 		{0CF42B60-E978-43BD-A566-D83257EE412E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CF42B60-E978-43BD-A566-D83257EE412E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CF42B60-E978-43BD-A566-D83257EE412E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC898C88-586A-4CBB-AF3A-6FF0B4B2B6BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC898C88-586A-4CBB-AF3A-6FF0B4B2B6BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC898C88-586A-4CBB-AF3A-6FF0B4B2B6BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC898C88-586A-4CBB-AF3A-6FF0B4B2B6BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
