@@ -66,9 +66,7 @@ namespace _00._000TwoSum
 				//nums 是一個陣列（Array），而 i 是當前迴圈的計數器。
 				if (numDict.ContainsKey(complement))
 				{
-					// 2. 加入資料：numDict.Add(Key, Value)
-					// 這裡我們把「數字」放前面當 Key，「索引」放後面當 Value
-					//numDict.Add(nums[i], i);
+					
 					return new int[] { numDict[complement], i };
 
 					// 3. 查詢：numDict[Key]
@@ -77,6 +75,9 @@ namespace _00._000TwoSum
 				}
 				if (!numDict.ContainsKey(nums[i]))
 				{
+					// 2. 加入資料：numDict.Add(Key, Value)
+					// 這裡我們把「數字」放前面當 Key，「索引」放後面當 Value
+					//numDict.Add(nums[i], i);
 					numDict.Add(nums[i], i);
 				}
 			}

@@ -215,6 +215,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00.000RotateArray", "00.000
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryPractice", "DictionaryPractice\DictionaryPractice.csproj", "{976A271D-F782-479F-BE8F-FBA02376C03A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00.000tRawTest0", "00.000RawTest0\00.000tRawTest0.csproj", "{C0CFBE41-A660-4693-ACFB-1B66543D7504}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -645,6 +647,10 @@ Global
 		{976A271D-F782-479F-BE8F-FBA02376C03A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{976A271D-F782-479F-BE8F-FBA02376C03A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{976A271D-F782-479F-BE8F-FBA02376C03A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0CFBE41-A660-4693-ACFB-1B66543D7504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0CFBE41-A660-4693-ACFB-1B66543D7504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0CFBE41-A660-4693-ACFB-1B66543D7504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0CFBE41-A660-4693-ACFB-1B66543D7504}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
